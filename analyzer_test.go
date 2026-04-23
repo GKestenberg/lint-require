@@ -5,7 +5,7 @@ import (
 
 	"golang.org/x/tools/go/analysis/analysistest"
 
-	lintrequire "github.com/giladkestenberg/lint-require"
+	lintrequire "github.com/GKestenberg/lint-require"
 )
 
 func TestAnalyzer(t *testing.T) {

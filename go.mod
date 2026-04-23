@@ -1,4 +1,4 @@
-module github.com/giladkestenberg/lint-require
+module github.com/GKestenberg/lint-require
 
 go 1.22.0
 

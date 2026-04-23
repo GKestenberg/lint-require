@@ -3,7 +3,7 @@ package main
 import (
 	"golang.org/x/tools/go/analysis/singlechecker"
 
-	lintrequire "github.com/giladkestenberg/lint-require"
+	lintrequire "github.com/GKestenberg/lint-require"
 )
 
 func main() {
